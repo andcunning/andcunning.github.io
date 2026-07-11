@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Diagonal shaft, bottom-left to top-right -->
+  <line x1="24" y1="76" x2="72" y2="28"
+    stroke="#3a7a3a" stroke-width="10" stroke-linecap="round"/>
+  <!-- Arrowhead -->
+  <polyline points="44,28 72,28 72,56"
+    fill="none" stroke="#3a7a3a" stroke-width="10"
+    stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
